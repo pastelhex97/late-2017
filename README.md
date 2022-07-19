@@ -20,13 +20,3 @@ This was my second portfolio website which I used briefly in late 2017. It was m
 <p>The other special thing I tried to do for this version of my portfolio was attempt to make a system of terms, prices, and examples for illustration and web design commissions that never really panned out. The system was too complicated because I tried using these tabs that would swap the content on the screen using Javascript and also my own gallery and preview image script.</p>
 
 <img src="https://pastelhex.online/img/newgallery.gif" alt="Gif of Custom jQuery Gallery on Second Portfolio" class="img-fluid"/>
-
-### All Versions of My Portfolio Website
-
-- [2021](https://github.com/pastelhex97/pastelhex97.github.io)
-- [2020](https://github.com/pastelhex97/2020)
-- [2019](https://github.com/pastelhex97/2019)
-- [Mid-2018](https://github.com/pastelhex97/mid-2018)
-- [Early 2018](https://github.com/pastelhex97/early-2018)
-- [Late 2017](https://github.com/pastelhex97/late-2017)
-- [Mid-2017](https://github.com/pastelhex97/mid-2017)
